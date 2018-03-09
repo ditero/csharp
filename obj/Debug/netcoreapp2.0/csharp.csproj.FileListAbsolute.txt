@@ -1,0 +1,10 @@
+/home/anele/Documents/csharp/bin/Debug/netcoreapp2.0/csharp.deps.json
+/home/anele/Documents/csharp/bin/Debug/netcoreapp2.0/csharp.runtimeconfig.json
+/home/anele/Documents/csharp/bin/Debug/netcoreapp2.0/csharp.runtimeconfig.dev.json
+/home/anele/Documents/csharp/bin/Debug/netcoreapp2.0/csharp.dll
+/home/anele/Documents/csharp/bin/Debug/netcoreapp2.0/csharp.pdb
+/home/anele/Documents/csharp/obj/Debug/netcoreapp2.0/csharp.csproj.CoreCompileInputs.cache
+/home/anele/Documents/csharp/obj/Debug/netcoreapp2.0/csharp.AssemblyInfoInputs.cache
+/home/anele/Documents/csharp/obj/Debug/netcoreapp2.0/csharp.AssemblyInfo.cs
+/home/anele/Documents/csharp/obj/Debug/netcoreapp2.0/csharp.dll
+/home/anele/Documents/csharp/obj/Debug/netcoreapp2.0/csharp.pdb
